@@ -1,5 +1,5 @@
 # Minesweeper
-Minesweeper from scratch, all in one class
+Minesweeper from scratch, all in one class (FRESHMAN YEAR PROJECT)
 
 I made this project as a refresher over winter break of 2021.
 I'm sure I could go back now and make it much better, but I don't have time.
